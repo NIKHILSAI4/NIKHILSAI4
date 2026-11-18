@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil 👋
+# Hi, I'm Nikhil Sai 👋
 
 Computer Science student at KLH University, interested in machine learning, NLP, and full-stack development. I build projects with Python, PyTorch, React, and Flask.
 
