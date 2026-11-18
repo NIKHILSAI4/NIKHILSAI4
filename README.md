@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Nikhil 👋
+
+Computer Science student at KLH University, interested in machine learning, NLP, and full-stack development. I build projects with Python, PyTorch, React, and Flask.
+
+Currently exploring AI and building practical software.
+
+[LinkedIn](https://www.linkedin.com/in/nikhilsaikola) · [Email](mailto:2420030635cse@gmail.com)
 
 <!--
 **NIKHILSAI4/NIKHILSAI4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
